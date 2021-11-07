@@ -15,7 +15,7 @@
 
 
 <div align="center">
-<img src="https://i.gifer.com/9MX2.gif" align="center" width="90%" height="350" />
+<img src="9MX2.gif" align="center" width="90%" height="350" />
 </div> 
 
 <!-- Data Engineer  -->
@@ -30,8 +30,9 @@
 <br/>  
 
 
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
+## My Skill Set 
+<!-- <div >   -->
+<table><tr align="center"><td valign="top" width="33%">
 
 
 <!-- ReactJs,  -->
@@ -90,8 +91,3 @@
   
 
 <br/>  
-
-
-
-<br/>  
-
