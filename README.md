@@ -31,8 +31,10 @@
 
 
 ## My Skill Set 
-<div align="center">
-<table><tr align="center"><td valign="top" width="33%">
+<!-- <div align="center"> -->
+<!-- space-evenly -->
+<div display= "flex">
+<table><tr align="center"><td valign="top" width="33%" justify-content= "space-evenly" >
 
 
 <!-- ReactJs,  -->
@@ -47,7 +49,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="33%" justify-content= "space-evenly">
 
 
 
@@ -58,7 +60,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="33%" justify-content= "space-evenly">
 
 
 ### Others  
