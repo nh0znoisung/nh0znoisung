@@ -19,7 +19,7 @@
 </div> 
 
 <!-- Data Engineer  -->
-### <div align="center">Hi everybody 👋✨👋. I'm Minh Tuan, a <b>Machine Learning Engineer</b> student at [HCMUT](http://www.aao.hcmut.edu.vn/)🚀</div>  
+### <div align="center">Hi everybody 👋✨👋. I'm Minh Tuan, a <b>Software Engineer</b> student at [HCMUT](http://www.aao.hcmut.edu.vn/)🚀</div>  
   
 
 - 🌱 I’m currently learning AI, Machine Learning and Deep Learning.
